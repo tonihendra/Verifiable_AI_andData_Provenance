@@ -114,6 +114,7 @@ Open a new terminal tab.
 
 ```bash
 cd web
+npm install @cosmjs/stargate @cosmjs/proto-signing
 npm install
 npm run dev
 ```
