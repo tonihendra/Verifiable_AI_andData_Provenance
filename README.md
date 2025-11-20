@@ -1,4 +1,4 @@
-# Verifiable_AI_andData_Provenance
+# Verifiable AI And Data Provenance
 
 
 <div align="center">
