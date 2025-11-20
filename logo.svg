@@ -1,0 +1,39 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Definition of Gradients -->
+    <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" /> <!-- Indigo -->
+            <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1" /> <!-- Pink/Magenta -->
+        </linearGradient>
+        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="10" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+    </defs>
+
+    <!-- Background Circle (Optional, remove if want transparent) -->
+    <circle cx="256" cy="256" r="240" fill="#0f172a" fill-opacity="0.1"/>
+
+    <!-- The Hexagon Frame (Cosmos Ecosystem vibe) -->
+    <path d="M256 50 L450 150 V362 L256 462 L62 362 V150 L256 50Z" 
+          stroke="url(#grad1)" 
+          stroke-width="12" 
+          stroke-linecap="round" 
+          stroke-linejoin="round"
+          fill="none"/>
+
+    <!-- The "V" / Neural Connection Logic -->
+    <!-- Left Node Line -->
+    <path d="M140 200 L256 350" stroke="white" stroke-width="16" stroke-linecap="round" filter="url(#glow)"/>
+    <!-- Right Node Line -->
+    <path d="M372 200 L256 350" stroke="white" stroke-width="16" stroke-linecap="round" filter="url(#glow)"/>
+    
+    <!-- The Brain Nodes (Data Points) -->
+    <circle cx="140" cy="200" r="25" fill="url(#grad1)" />
+    <circle cx="372" cy="200" r="25" fill="url(#grad1)" />
+    <circle cx="256" cy="350" r="25" fill="white" />
+    
+    <!-- Central Data Stream (Flow) -->
+    <path d="M256 120 V280" stroke="url(#grad1)" stroke-width="8" stroke-dasharray="20 10" stroke-linecap="round" opacity="0.6"/>
+
+</svg>
