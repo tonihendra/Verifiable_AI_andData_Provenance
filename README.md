@@ -113,8 +113,9 @@ ignite chain serve
 Open a new terminal tab.
 
 ```bash
+npx create-next-app@latest web
 cd web
-npm install @cosmjs/stargate @cosmjs/proto-signing
+npm install @cosmjs/stargate @cosmjs/proto-signing @keplr-wallet/types
 npm install
 npm run dev
 ```
