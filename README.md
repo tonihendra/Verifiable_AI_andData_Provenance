@@ -1,14 +1,4 @@
 # Verifiable_AI_andData_Provenance
-Tentu, ini adalah versi **README.md** yang sudah saya "upgrade" secara visual.
-
-Saya menambahkan elemen-elemen berikut agar terlihat seperti proyek Open Source kelas atas:
-1.  **Header Terpusat (Centered Header):** Memberikan kesan landing page.
-2.  **Tech Stack Badges:** Menggunakan lencana berwarna untuk menunjukkan teknologi (Next.js, Go, Cosmos).
-3.  **Layout yang Lebih Bersih:** Menggunakan tabel dan formatting yang lebih rapi.
-4.  **Placeholder Logo:** Saya siapkan tempat untuk logo.
-
-Silakan **Copy** seluruh kode di bawah ini dan **Paste** ke file `README.md` di GitHub Anda.
-
 ***
 
 ```markdown
