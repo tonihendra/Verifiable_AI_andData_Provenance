@@ -46,12 +46,13 @@ veriflow-network/
 └── 📂 ts-client/         # 🌉 TypeScript Client (Auto-generated)
                           # Bridges the JS Frontend with the Go Backend
 
-🛠️ Tech Stack
-Blockchain Engine: Cosmos SDK & Ignite CLI
-Consensus: CometBFT (formerly Tendermint)
-Frontend: Next.js, Tailwind CSS, CosmJS
-Storage Layer: IPFS / Arweave (Off-chain physical storage)
-Middleware: Node.js, MongoDB
+## 🛠️ Tech Stack
+- Blockchain Engine  : Cosmos SDK & Ignite CLI
+- Consensus          : CometBFT (formerly Tendermint)
+- Frontend           : Next.js, Tailwind CSS, CosmJS
+- Storage Layer      : IPFS / Arweave (Off-chain physical storage)
+- Middleware         : Node.js, MongoDB
+---
 🚀 Getting Started
 Follow these steps to run the entire ecosystem locally.
 
