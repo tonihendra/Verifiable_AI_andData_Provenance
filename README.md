@@ -1,6 +1,6 @@
 # Verifiable_AI_andData_Provenance
 
-```markdown
+
 <div align="center">
 
   <img src="./logo.svg" alt="VeriFlow Logo" width="150" height="150" />
