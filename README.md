@@ -159,6 +159,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the VeriFlow Team.</sub>
+  <sub>Built with ❤️ by the Dencuan Team.</sub>
 </div>
 ```
