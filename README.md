@@ -2,14 +2,22 @@
 ***
 
 ```markdown
-<div align="center">
+
 
 # 🧠 VeriFlow Network
 ### The Trust Layer for the AI Era
 
 <div align="center">
+
   <img src="./logo.svg" alt="VeriFlow Logo" width="150" height="150" />
+
   <h1>VeriFlow Network</h1>
+  
+  <h3>The Trust Layer for the AI Era</h3>
+
+  <p>
+    <b>Verifiable AI</b> • <b>Data Provenance</b> • <b>Decentralized Marketplace</b>
+  </p>
   ...
 
 <br />
