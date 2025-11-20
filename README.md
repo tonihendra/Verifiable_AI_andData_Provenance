@@ -101,7 +101,10 @@ Follow these steps to run the entire ecosystem on your local machine.
 Navigate to the `chain` directory and ignite the chain.
 
 ```bash
+curl https://get.ignite.com/cli! | bash
 cd chain
+ignite scaffold chain verichain
+ignite scaffold list dataset dataHash:string owner:string price:uint description:string --module provenance
 ignite chain serve
 ```
 > 🟢 **Status:** The blockchain API is now running at `localhost:1317` and RPC at `localhost:26657`.
