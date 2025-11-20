@@ -7,8 +7,10 @@
 # 🧠 VeriFlow Network
 ### The Trust Layer for the AI Era
 
-<!-- Ganti link di bawah ini dengan logo Anda nanti -->
-<img src="https://img.shields.io/badge/VeriFlow-Network-black?style=for-the-badge&logo=cosmos&logoColor=white" alt="VeriFlow Logo" height="80" />
+<div align="center">
+  <img src="./logo.svg" alt="VeriFlow Logo" width="150" height="150" />
+  <h1>VeriFlow Network</h1>
+  ...
 
 <br />
 
