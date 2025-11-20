@@ -1,12 +1,6 @@
 # Verifiable_AI_andData_Provenance
-***
 
 ```markdown
-
-
-# 🧠 VeriFlow Network
-### The Trust Layer for the AI Era
-
 <div align="center">
 
   <img src="./logo.svg" alt="VeriFlow Logo" width="150" height="150" />
@@ -18,24 +12,21 @@
   <p>
     <b>Verifiable AI</b> • <b>Data Provenance</b> • <b>Decentralized Marketplace</b>
   </p>
-  ...
 
-<br />
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+  [![Cosmos SDK](https://img.shields.io/badge/Built%20with-Cosmos%20SDK-AF53F8?style=flat-square&logo=cosmos&logoColor=white)](https://cosmos.network/)
+  [![Frontend](https://img.shields.io/badge/Frontend-Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+  [![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Cosmos SDK](https://img.shields.io/badge/Built%20with-Cosmos%20SDK-AF53F8?style=flat-square&logo=cosmos&logoColor=white)](https://cosmos.network/)
-[![Frontend](https://img.shields.io/badge/Frontend-Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+  <br />
 
-<p align="center">
-  <b>Verifiable AI</b> • <b>Data Provenance</b> • <b>Decentralized Marketplace</b>
-</p>
-
-[Getting Started](#-getting-started) •
-[Architecture](#-monorepo-architecture) •
-[Roadmap](#-roadmap) •
-[Contributing](#-contributing)
+  <p>
+    <a href="#-getting-started">Getting Started</a> •
+    <a href="#-monorepo-architecture">Architecture</a> •
+    <a href="#-roadmap">Roadmap</a> •
+    <a href="#-contributing">Contributing</a>
+  </p>
 
 </div>
 
